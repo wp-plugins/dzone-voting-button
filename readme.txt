@@ -4,7 +4,7 @@ Donate link: http://www.absolutelytech.com/wordpress-plugin-dzone-voting-button/
 Tags: dzone, social bookmarking, vote, widget
 Requires at least: 2.7.1
 Tested up to: 3.0
-Stable tag: 1.5
+Stable tag: 1.07
 
 This plugin helps you easily add a DZone voting button to your wordpress posts, pages and to frontpage.
 
