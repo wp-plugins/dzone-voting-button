@@ -3,7 +3,7 @@
 Plugin Name: DZone Voting Button
 Plugin URI: http://www.absolutelytech.com
 Description: Adds a DZone voting button to your blog posts.
-Version: 1.1
+Version: 1.4
 Author: Deepak Mittal
 Author URI: http://www.absolutelytech.com
 */
