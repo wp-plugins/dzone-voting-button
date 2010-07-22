@@ -76,7 +76,7 @@ function dzone_options_page(){
 					<th scope="row" valign="top"><label for="dzone_divstyle">Styling</label></th>
 					<td>
 						<input type="text" value="<?php echo htmlspecialchars(get_option('dzone_divstyle')); ?>" name="dzone_divstyle" id="dzone_divstyle"  style="width:550px;" /><br/>
-						<span class="description">Add style to the div tag that surrounds the button. Default - <code>float: left; margin-left: 10px;</code></span>
+						<span class="description">Add style to the div tag that surrounds the button. Default - <code>float: right; margin-left: 10px;</code></span>
 					</td>
 				</tr>
 				<tr>
